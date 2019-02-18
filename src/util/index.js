@@ -6,6 +6,12 @@ async function delay(seconds) {
   });
 }
 
+function createRandom() {
+  // 30-60s
+  return Math.floor(Math.random() * 30) + 30;
+}
+
 module.exports = {
-  delay
+  delay,
+  createRandom
 };

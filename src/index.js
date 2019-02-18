@@ -2,8 +2,6 @@ const { crawlerConfig } = require('./config');
 
 const crawler = require('./crawler');
 
-const { delay } = require('./util');
-
 const { accounts, startPage, pageSize, fetchPageNums } = crawlerConfig;
 
 // 预先同步抓取  异步并发抓取是否导致封号？
@@ -15,7 +13,6 @@ async function main() {
     console.log(`抓取公众号${accounts[i].name}完成`);
     console.timeEnd(accounts[i].name);
     console.log('\n');
-    await delay(1);
   }
 }
 

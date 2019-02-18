@@ -1,11 +1,16 @@
 const Crawler = require('crawler');
+const { delay, createRandom } = require('../util');
 
 const c = new Crawler({
   maxConnections: 1,
-  rateLimit: 1000
+  rateLimit: 1000 // 1s
 });
 
-function crawlerService(options) {
+async function crawlerService(options) {
+  // 每次抓取之前延迟30-60s的随机时间
+  console.log('                ...waiting...');
+  await delay(createRandom());
+
   return new Promise((resolve, reject) => {
     c.queue({
       ...options,

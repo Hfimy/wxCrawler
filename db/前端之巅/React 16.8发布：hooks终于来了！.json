@@ -1,1 +1,31 @@
-{"comm_msg_info":{"id":1000001177,"type":49,"datetime":1549629879,"fakeid":"3513713196","status":2,"content":""},"app_msg_ext_info":{"title":"React 16.8发布：hooks终于来了！","digest":"React 16.8 终于带来了稳定版的 Hooks。","content":"","fileid":100006775,"content_url":"http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247490425&amp;idx=1&amp;sn=776d3afe5ac5c08b18c7cc809efa6b58&amp;chksm=f951ae3ace26272ce0e90e4a2e37b35a90ded34b753b2dafd861edb2b2acea9d4a31a3959d8e&amp;scene=27#wechat_redirect","source_url":"https://sz2019.archsummit.com/?utm_source=wechat&amp;utm_campaign=7&amp;utm_medium=frontshow&amp;utm_term=0130","cover":"http://mmbiz.qpic.cn/mmbiz_jpg/XIibZ0YbvibkXGqVfqXDaqeFbFiaomISpKpHR98qoFnxOLsicwAyD2FBWzXzG4YvSCJc8sL3XDElIo9083Hu4NAJVw/0?wx_fmt=jpeg","subtype":9,"is_multi":0,"multi_app_msg_item_list":[],"author":"前端之巅","copyright_stat":11,"duration":0,"del_flag":1,"item_show_type":0,"audio_fileid":0,"play_url":"","malicious_title_reason_id":0,"malicious_content_type":0}}
+{
+  "comm_msg_info": {
+    "id": 1000001177,
+    "type": 49,
+    "datetime": 1549629879,
+    "fakeid": "3513713196",
+    "status": 2,
+    "content": ""
+  },
+  "app_msg_ext_info": {
+    "title": "React 16.8发布：hooks终于来了！",
+    "digest": "React 16.8 终于带来了稳定版的 Hooks。",
+    "content": "",
+    "fileid": 100006775,
+    "content_url": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247490425&amp;idx=1&amp;sn=776d3afe5ac5c08b18c7cc809efa6b58&amp;chksm=f951ae3ace26272ce0e90e4a2e37b35a90ded34b753b2dafd861edb2b2acea9d4a31a3959d8e&amp;scene=27#wechat_redirect",
+    "source_url": "https://sz2019.archsummit.com/?utm_source=wechat&amp;utm_campaign=7&amp;utm_medium=frontshow&amp;utm_term=0130",
+    "cover": "http://mmbiz.qpic.cn/mmbiz_jpg/XIibZ0YbvibkXGqVfqXDaqeFbFiaomISpKpHR98qoFnxOLsicwAyD2FBWzXzG4YvSCJc8sL3XDElIo9083Hu4NAJVw/0?wx_fmt=jpeg",
+    "subtype": 9,
+    "is_multi": 0,
+    "multi_app_msg_item_list": [],
+    "author": "前端之巅",
+    "copyright_stat": 11,
+    "duration": 0,
+    "del_flag": 1,
+    "item_show_type": 0,
+    "audio_fileid": 0,
+    "play_url": "",
+    "malicious_title_reason_id": 0,
+    "malicious_content_type": 0
+  }
+}
